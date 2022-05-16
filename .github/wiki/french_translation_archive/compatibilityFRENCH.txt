@@ -1,0 +1,10 @@
+Ⅶ | 🕹️ PlayStation®Home Minigame Compatibility List
+------------------------------------------------------------
+Ⅶ | 🕹️ Liste de compatibilité des mini-jeux PlayStation®Home
+
+Cette page wiki détaillera notre prise en charge actuelle des mini-jeux pour PS3 et RPCS3. Nous suivons actuellement la compatibilité par scène et par région, qu'il s'agisse d'un espace public ou privé.
+
+🕹️ En ce qui concerne les mini-jeux, malheureusement pour certaines scènes, tous les mini-jeux ne fonctionneront pas car cela nécessite une attention/du temps supplémentaire de la part de l'équipe de Destination Home pour que ces services soient opérationnels dans un environnement stable.
+Pour notre lancement bêta, j'ai créé une liste de compatibilité simple qui documente quels mini-jeux fonctionnent pleinement ou non par ordre alphabétique (A-Z). (cette liste est en anglais) 
+
+⚠️ Notez que cette liste de compatibilité est un WIP(work in progress), car les jeux actuels de la liste font partie de notre bêta. Cette liste contiendra d'avantages de jeux documentés.

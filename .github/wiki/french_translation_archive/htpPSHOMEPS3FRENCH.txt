@@ -1,0 +1,212 @@
+Ⅹ | How to play PlayStation®Home on PS3
+------------------------------------------
+
+Cette page wiki documentera comment les utilisateurs peuvent à nouveau installer/jouer à PlayStation®Home sur PS3.
+
+PlayStation®Home_3 *PIC 1: Nagato,Knight, and someone in a bat costume on sodium space.*
+
+-ℹ️ Notez que le guide suivant vous demandera d'être sur HEN/HFW (Hybrid Firmware) ou Custom firmware pour installer notre fichier de package PlayStation®Home personnalisé pour PS3.
+L'équipe de Destination Home recommande vivement aux utilisateurs de reconvertir le logiciel en officiel (OFW).
+
+📁 Partage de fichiers 📁
+
+-En plus de cela, les utilisateurs qui ont déjà PlayStation Home sur leur appareil devraient fortement envisager de faire don de leurs données à l'équipe car vous devrez toujours télécharger notre package personnalisé.
+En faisant don de vos données PlayStation®Home, nous pouvons réintégrer le contenu original du Home dans nos services en ligne. Pour plus d'informations sur la façon dont vous pouvez aider le projet Destination Home, consultez le guide officiel PlayStation®Home Cache Extraction Guide ici.
+
+⚠️
+ Enfin, je suggère fortement aux utilisateurs de regarder mon dernier guide vidéo officiel HEN car il couvre toutes les étapes nécessaires pour convertir votre système logiciel officiel en HFW/HEN. Vignettes YouTube (8)*PIC 2: Nagato vignette youtube.*
+Sans plus tarder, reprenons 🏠
+
+-1. Téléchargez le dernier fichier PKG patché PlayStation®Home 1.86 OFW et téléchargez-le dans n'importe quel répertoire de fichiers sur votre ordinateur.
+
+-2. Téléchargez et installez la dernière version du logiciel hybride "HFW" qui est 4.89 Au 01/05/2022.
+
+ *MD5 Hash pour 4.89 HFW : besoin de documenter l8r*
+
+⚠️ INFORMATION IMPORTANTE : VEUILLEZ VÉRIFIER VOTRE Hash MD5 avant de mettre à jour votre console pour éviter tout brick.
+En vérifiant votre hachage MD5, vous pouvez vérifier que vous téléchargez la bonne mise à jour et que votre logiciel n'est pas corrompu. Vous pouvez utiliser le vérificateur de hash OnlineMD5 pour ce processus.
+Veuillez vous référer au dernier tutoriel HEN si vous avez besoin d'un rappel sur la façon de vérifier votre hash MD5.
+-3. La troisième étape consiste à formater votre clé USB en FAT32 avec l'Explorateur de fichiers Windows ou Rufus. Si votre clé USB est déjà sur FAT32, vous pouvez ignorer cette étape.
+Vous pouvez utiliser cette vidéo ici, si vous avez besoin d'une représentation visuelle de la façon de formater correctement votre clé USB en FAT32 ou vous pouvez utiliser mon tutoriel HEN.
+
+-4. La quatrième étape consiste à faire glisser le fichier PKG patché PlayStation®Home 1.86 OFW à la racine de votre périphérique USB externes.
+
+-5. Maintenant que nous sommes sur le système de fichiers FAT32, vous voudrez renommer le firmware HFW en PS3UPDAT.PUP
+       ℹ️ Faites en sorte que le nom soit en lettre capitale : PS3UPDAT.PUP
+       
+       ℹ️ De plus, avant d'installer le firmware sur votre PS3, veuillez vérifier le hash MD5 via le hash OnlineMD5. Voici le hash MD5 : 23F60BAF3C3D38BC77AA452E770D1248
+       ⚠️ NE PAS VÉRIFIER VOTRE HASH MD5 PEUT ENTRAÎNER A AVOIR UNE CONSOLE BRIQUE.
+
+
+
+-6. L'étape 6 traite de la mise à jour de votre console. Maintenant que votre clé USB est formatée en FAT32 et contient le fichier de mise à jour, vous pouvez maintenant brancher votre clé USB sur le port USB à droite de votre PS3 (le port USB le plus proche de votre lecteur Blu-ray).
+
+
+ℹ️ Assurez-vous également de désactiver votre connexion Wi-Fi et de prendre tout disque qui pourrait se trouver dans votre lecteur Blu-ray PS3. Cela garantit que vous ne téléchargez pas le dernier firmware en direct à partir des serveurs de Sony pour la PS3.
+
+ℹ️ Allez maintenant dans les paramètres système et la mise à jour via le support de stockage. Si vous avez tout fait correctement, vous devriez voir l'écran suivant :121427753-14917180-c943-11eb-9bae-1c2ba0e28576 *PIC 3: system update*
+
+ℹ️ Si vous voyez cet écran, cliquez simplement sur OK et suivez les instructions à l'écran. Une fois que votre PS3 a été mise à jour avec succès, nous pouvons commencer le segment suivant de ce processus qui active HEN Enabler.
+
+⚙️ Activation de l'activateur HEN
+Maintenant que vous avez installé avec succès HFW 4.89 sur votre appareil. Maintenant, nous devons installer HEN.
+
+ℹ️ L'installation de HEN peut prendre un certain temps. La PS3 doit recevoir avec succès une charge utile personnalisée qui permettra à votre PS3 d'être piratée. Ce processus peut prendre plusieurs tentatives avant que HEN ne soit initialisé sur votre appareil.
+De plus, ce processus peut vous obliger à rallumer votre PS3 PLUSIEURS FOIS.
+
+-7. Nous devons d'abord configurer vos paramètres réseau dans le navigateur Internet PS3. Sous la colonne Réseau dans XMB, veuillez entrer dans l'application Navigateur Internet. Une fois que vous êtes dans le navigateur Internet, nous allons supprimer certains fichiers dans le navigateur.
+Cliquez sur Triangle sur votre manette PS3 qui affichera un menu latéral comme illustré ici :
+
+118722428-24ada980-b7fa-11eb-9a0a-ded123132166 *PIC 4: Menu Navigator internet showcasing tools etc*.
+
+
+8. En supposant que le menu latéral est toujours activé sur votre PS3, allez dans l'onglet Outils. Dans l'onglet Outils, nous devons désactiver/effacer les fonctionnalités suivantes :
+
+Confirmer la fermeture du navigateur désactiver ce paramètre
+Page d'accueil assurez-vous de définir ce paramètre sur Page vierge
+Assurez-vous de supprimer les cookies et cliquez sur Oui pour confirmer ce paramètre.
+Assurez-vous de supprimer l'historique de recherche et cliquez sur Oui pour confirmer ce paramètre.       
+Assurez-vous de supprimer le cache et cliquez sur Oui pour confirmer ce paramètre.
+Assurez-vous de supprimer les informations d'authentification pour confirmer ce paramètre.
+
+
+
+
+9. Une fois que tous les paramètres suivants ont été initialisés. Dans le navigateur Internet, vous souhaiterez accéder à ps3xploit.com.
+
+118725001-58d69980-b7fd-11eb-9134-4bef78ea0d68 *PIC 5: THE PS3 XPLOIT TEAM on navigator*
+
+
+Maintenant que vous êtes sur ps3exploit.com, vous souhaiterez survoler l'onglet PS3HEN. Dans l'onglet PS3HEN, vous sélectionnerez l'option HEN Installer/Enabler. Une fois que vous avez lancé cette option, vous devriez être redirigé vers la page PS3 HEN Installer qui téléchargera un fichier appelé PS3HEN.p3t
+
+
+118724992-570cd600-b7fd-11eb-8e7b-c7ea8aa3bc0a *PIC 6: PS3 HEN DOWNLOADING*
+
+
+-10. Une fois le fichier PS3HEN.p3t téléchargé, sur la page du programme d'installation PS3 HEN, sélectionnez l'option qui indique Initialiser le programme d'installation HEN une fois le processus initialisé, vous devriez voir un message vert indiquant que le programme d'installation HEN s'est initialisé avec succès.
+
+
+ÉTAPE 5 *PIC 7: PS3 HEN INSTALLER.*
+
+
+-11. L'option suivante que vous souhaitez sélectionner dans la page PS3 HEN Installer est Installer HEN uniquement si vous avez reçu le message d'installation HEN initialisé avec succès. Une fois HEN activé, vous devriez obtenir une image indiquant Bienvenue dans HEN 3.03.
+
+
+118724992-570cd600-b7fd-11eb-8e7b-c7ea8aa3bc0a *PIC 8: PS3hen.p3t downloading.*
+
+
+-12. Une fois que vous voyez le message Welcome to HEN 3.03, vous pouvez quitter le navigateur Internet. Une fois que vous avez quitté le navigateur, vous devriez voir un fichier .pkg de package en cours de téléchargement sur votre PS3. Le fichier fait 11 Mo et s'appelle Latest_HEN_Installer_signed.pkg Laissez ce fichier de package être entièrement installé avant de redémarrer votre PS3.
+
+Dernier paquet d'installation HEN signé
+
+
+-13. Une fois que vous avez démarré la sauvegarde de votre PS3, rendez-vous dans la colonne Jeu, vous devriez voir 2 nouvelles options sur votre XMB, à savoir ★ Activer HEN & ★ Gestionnaire de packages. Si vous avez ces 2 nouvelles options, cela signifie que HEN a été installé avec succès.
+
+
+
+
+Dernier paquet d'installation HEN signé *PIC 9: LATEST HEN INSTALLATION*
+
+
+
+
+-13. Une fois que vous démarrez la sauvegarde de votre PS3, dirigez-vous vers la colonne Jeu, vous devriez voir 2 nouvelles options sur votre XMB qui sont ★ Activer HEN & ★ Gestionnaire de paquets. Si vous avez ces 2 nouvelles options, cela signifie que HEN a été installé avec succès.
+
+activer hennnnnnnnnnnnnnnnnn *PIC 10: ACTIVATE HEN*
+
+
+-14. Maintenant que vous avez installé avec succès HFW/HEN sur votre appareil et que vous venez de redémarrer votre console, veuillez connecter votre clé USB au port USB le plus à droite (celui qui est le plus proche de votre lecteur BluRay).
+Considérant que vous avez déjà le fichier PKG patché PlayStation®Home 1.86 OFW à la racine de votre clé USB, veuillez vous rendre sur l'option ★ Activer HEN pour lancer la charge utile pour vous permettre d'exécuter Homebrew. Une fois que vous avez activé la notification HEN, vous pouvez maintenant quitter le navigateur.
+
+⚠️ Encore une fois, assurez-vous que vous n'êtes pas connecté à PlayStation®Network lorsque vous utilisez n'importe quel type d'Homebrew ou vous risquez de voir votre console bannie.
+Une fois que vous ★ Activez HEN, vous devriez voir ★ Gestionnaire de packages, cliquez sur X pour ouvrir le Gestionnaire de packages et accédez à la 2ème option qui indique ★ Installer les fichiers de package> Standard> PlayStation-Home-Online-OFW-EP9000-NPIA00005_00-HOME000000000001-A0187-V0100 .pkg, vous devriez voir le fichier PKG patché PlayStation®Home 1.86 OFW.
+Pour installer le PKG, appuyez simplement sur X pour installer le package, une fois que vous avez installé le package, vous devriez voir PlayStation®Home sous l'icône PlayStation™Network. Si vous êtes bloqué à cette étape, veuillez consulter l'infographie complète ci-dessous :
+
+
+
+
+PlayStation-Home-How-To-Install PlayStation-Home-How-To-Install-5-6-step *PIC 11: 6 MINI PIC EXPLAINING how to install home*
+
+
+
+       🧰 Passer à nos paramètres DNS publics
+-15. Sur votre PS3 XMB, sous la colonne Paramètres, accédez à l'option Paramètres réseau.
+
+UEEEE *PIC 12: NETWORK SETTINGS*
+
+
+-16. Faites défiler jusqu'à la troisième option Paramètres de connexion Internet pour modifier votre configuration réseau d'origine.
+
+Capture d'écran Réseau 3 *PIC 13: INTERNET CONNECTION SETTINGS.*
+
+
+-17. Quant à l'étape suivante, vous devez choisir Personnalisé car l'option Facile ne vous permettra pas de changer votre DNS en une valeur personnalisée.
+
+
+Capture d'écran_11 *PIC 14: METHOD CUSTOM.*
+
+
+
+-18 Une fois que vous vous êtes connecté à vos paramètres WLAN pour votre réseau domestique et que vous voyez le volet de réglage de l'adresse IP, veuillez sélectionner Automatique.
+
+
+-19. Lorsque vous êtes sur le paramètre Nom d'hôte DHCP, sélectionnez l'option Ne pas définir.
+
+-20. Dans la fenêtre Paramètres DNS, sélectionnez l'option Manuel.
+
+paramètres dns ps3 *PIC 15: DNS SETTINGS MANUAL.* 
+
+
+
+-21. Cette étape est vitale pour que vous puissiez accéder à nos serveurs Home, vous devrez entrer les informations suivantes dans les options DNS
+
+DNS principal :
+DNS secondaire : 8.8.8.8
+
+
+-22. Dans la fenêtre MTU Setting, sélectionnez l'option Automatique.
+
+
+MTU automatique *PIC 16: MTU AUTOMATIC.*
+
+
+-23. Dans la fenêtre ProxyServer, sélectionnez l'option Ne pas utiliser.
+
+
+NE PAS UTILISER *PIC 17: SERVER PROXY DO NOT USE.*
+
+
+-24. Dans la fenêtre UPnP, sélectionnez l'option Activer.
+
+UPNP *PIC 18: UPNP ENABLE.*
+
+
+-25. Enfin, confirmez vos paramètres réseau, puis reconnectez-vous à PlayStation™Network. Une fois sur PlayStation™Network, vous devriez enfin pouvoir rejouer à PlayStation®Home sur PS3 !
+
+confirmez vos paramètressssss *PIC 18: CONFIRM UR SETTINGS.*
+
+
+
+
+🔄 Revenir au firmware officiel
+
+-26. Comme indiqué précédemment, le logiciel officiel est le moyen le plus sûr de jouer à PlayStation®Home en exécutant tout type de logiciel personnalisé, vous risquez d'être banni du PlayStation™Network.
+Destination Home n'est pas responsable des comptes qui pourraient être interdits pour vous en utilisant votre compte sur un logiciel personnalisé, car nous avons clairement indiqué la meilleure option pour notre communauté pour accéder au Home.
+Pour revenir simplement à l'OFW, téléchargez la dernière version du logiciel système PS3 et placez le fichier PS3UPDAT.PUP dans le répertoire suivant :
+
+PS3/MISE À JOUR/PS3UPDAT.PUP
+
+
+Allez ensuite dans Mise à jour du système > Mettre à jour via un support de stockage. Ensuite, suivez l'invite à l'écran pour terminer la mise à jour. Une fois votre système mis à jour avec succès, vous pourrez toujours utiliser PlayStation®Home normalement.
+
+
+
+
+
+
+
+
+
+
+
+

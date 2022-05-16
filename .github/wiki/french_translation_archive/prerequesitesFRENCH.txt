@@ -1,0 +1,22 @@
+Ⅸ | Prerequisites for PlayStation 3 users
+-------------------------------------------
+
+Cette page wiki détaillera aux utilisateurs chaque prérequis/exigence avant d'accéder à PSHome Online.
+
+150008136-19e85b57-8060-4be6-95a6-f7419c3c4662 *PIC 1 : NAGATO AT THE JAPAN HOME SQUARE* 
+
+-1. Votre appareil PS3 doit fonctionner pleinement pour ce processus.
+N'importe quel modèle PS3 fonctionnera pour ce processus, y compris FAT/SLIMS/SUPERSLIMS.
+Cela inclut également n'importe quel modèle de PS3 de n'importe quelle région, ce qui signifie que si vous avez une PS3 japonaise ou un modèle européen, ce processus fonctionnera indépendamment.
+Notez que ceci est destiné aux utilisateurs qui utilisent actuellement des systèmes OFW Official Firmware.
+Si vous êtes déjà sur un appareil doté d'un logiciel personnalisé tel que REBUG ou 0HEN/HFW, vous pouvez ignorer cette condition préalable.
+De plus, si vous possédez une unité de débogage PS3 telle qu'un kit de test, vous pouvez également ignorer cette étape.
+
+-⚠️ Assurez-vous de vérifier que vos ports USB PS3 qui fonctionnent pour ce processus. Vous pouvez brancher une clé USB FAT32 pour tester si les deux USB fonctionnent.
+Si vous voyez votre clé USB PS3 sous l'icône vidéo/musique dans XMB, cela signifie que la PlayStation 3 peut très bien lire votre clé USB externe.
+-⚠️ Votre PS3 doit avoir un lecteur Blu-ray fonctionnel avec un module Wi-Fi Bluetooth fonctionnel.
+En termes simples, le lecteur de disque de votre appareil doit fonctionner et pouvoir se connecter à une connexion réseau Wi-Fi, qu'elle soit sans fil ou via un câble Ethernet.
+REMARQUE : SI VOTRE PS3 A UN LECTEUR Blu-ray CASSÉ ou si votre adaptateur Wi-Fi/BT est cassé, ARRÊTEZ-VOUS MAINTENANT.
+Actuellement, il n'y a pas de logiciel BD HFW/HEN pour le moment pour les systèmes qui présentent ces problèmes.
+Si vous essayez d'installer HFW (Hybride Firmware) sur une console qui a un lecteur Blu-ray cassé ou un adaptateur Wi-Fi/BT, il est possible que votre système soit semi-briqué et coincé dans une boucle de démarrage.
+-2. Vous aurez besoin d'une clé USB formatée en FAT32.

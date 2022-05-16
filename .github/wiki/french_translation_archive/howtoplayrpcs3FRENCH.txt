@@ -1,0 +1,33 @@
+ⅩⅠⅠ | How to play PlayStation®Home on RPCS3
+--------------------------------------------
+
+Cette page wiki documentera comment les utilisateurs peuvent installer/jouer au PlayStation®Home sur RPCS3.
+PlayStation®Home *PIC 1: FIGMENT AND NAGATO AT RALLY RC SPACE.*
+
+⚠️ En supposant que vous ayez suivi TOUS les prérequis comme indiqué dans cette ressource wiki. Vous êtes prêt à télécharger le client personnalisé du package PlayStation®Home Online.
+Si vous n'avez PAS rempli toutes les conditions préalables, vous rencontrerez des problèmes/bugs critiques qui ne vous permettront pas de jouer sur nos services en ligne.
+
+-Installation du package en ligne PlayStation®Home personnalisé :
+-1. Une fois que vous avez téléchargé le package personnalisé PlayStation®Home Online, vous devrez installer le package sur votre client RPCS3.
+       -Ou vous pouvez trouver le répertoire à partir duquel vous avez téléchargé le package et simplement glisser-déposer sur le client RPCS3 OU vous pouvez cliquer sur :
+
+-Fichier> Installer les packages/Raps/Edats.
+-Trouvez le répertoire où se trouve le fichier :
+
+        PlayStation-Home-Online-OFW-EP9000-NPIA00005_00-HOME000000000001-A0187-V0100.pkg
+
+ Puis cliquez sur Ouvrir. Après cela, vous devriez voir la boîte de dialogue PKG Decrypted/Installer et si vous voulez installer le package suivant, cliquez simplement sur Oui.
+
+Installer le fichier PKG *PIC 2:INSTALL THE PACKAGE.*
+
+PKG-FileDirectory *PIC 3:* 
+
+Accueil PKG en ligne *PIC 4*
+
+Accueil installé *PIC 5*
+
+Profitez! 
+
+Vous y êtes presque, il vous suffit de double-cliquer sur l'icône PlayStation®Home dans RPCS3 ! Tant que vous avez suivi toutes les conditions préalables et que vous disposez d'une connexion réseau active, vous devriez être de retour dans Harbor Studio prêt à replonger dans l'écosystème du Home !
+
+NPIA00005_screenshot_2022_05_13_07_30_16 *PIC 6: Nagato WAVING AT HARBOUR STUDIO.*

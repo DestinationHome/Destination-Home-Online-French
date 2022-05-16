@@ -1,0 +1,21 @@
+IV Important terminologies /Terminologies importantes
+----------------------------------------------------------------------------------
+Terminologies importantes
+Cette section donnera un résumé général de certaines terminologies clés qui, à mon avis, sont importantes pour les utilisateurs qui pourraient être nouveaux sur la scène du modding de la console PS3.
+
+NPIA00010_screenshot_2022_05_04_21_00_25 *PIC 1: THUMBS UP CHARACTER ON HARBOUR*
+
+
+CFW : Custom Firmware ou CFW en abrégé vous permet d'exécuter du code/homebrew non signé sur votre système PS3.
+HFW : ​​Hybrid Firmware ou HFW en abrégé permet à l'utilisateur final d'exécuter du code/homebrew non signé sur votre système PS3. Remarque:  les utilisateurs devront activer HFW et HEN pour pouvoir installer le PlayStation Home.
+HEN: HEN signifie Homebrew Enabler, qui ressemble exactement à sa fonction principale. Il permet aux utilisateurs d'exécuter des homebrews !
+OFW : Dans le contexte de PS3 Official Firmware ou OFW en abrégé, on peut décrire le système d'exploitation/firmware officiel distribué par un fabricant dans notre cas Sony. Au moment de la rédaction de ce guide, la version 4.88 du 01/05/2022 est la dernière mise à jour du logiciel système PlayStation®3.
+Fichiers PKG : les termes .PKG ou fichiers de package peuvent être utilisés de manière interchangeable. Les fichiers de package contiennent des données de jeu critiques qui sont installées sur le disque dur PS3 d'un utilisateur.
+Rufus : Rufus est un utilitaire qui permet de formater des clés USB
+
+
+
+
+
+
+

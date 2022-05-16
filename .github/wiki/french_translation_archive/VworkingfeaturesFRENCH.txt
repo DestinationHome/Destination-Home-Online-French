@@ -1,0 +1,14 @@
+V Working Services & Features.
+--------------------------------
+Services et fonctionnalités qui fonctionnent :
+
+-Version officielle de la PS3 en 4.88. Depuis le 29/4/2022, la version 4.88 est le dernier firmware pour la PS3.
+-Nous utilisons la version 1.86 du PlayStation®Home pour notre client de production.
+-La prise en charge des trophées sera disponible sur PS3. RPCS3 utilisera son service équivalent pour la gestion des trophées.
+-Les récompenses. Cela comprend les meubles, les vêtements, les appartements, etc.
+-Prise en charge interrégionale. Les utilisateurs peuvent accéder à tous les espaces régionaux quel que soit le pays d'origine connecté à leur compte PSN. Par exemple, un joueur qui vient du Japon peut accéder aux scènes nord-américaines et vice-versa.
+-Les utilisateurs qui ont le PlayStation®Plus sur le PSN auront accès à des couleurs de police supplémentaires pour leurs identifiants dans le jeu et auront la possibilité de personnaliser les cheveux de leur avatar dans n'importe quelle couleur. Pour plus d'informations sur cette fonctionnalité, n'hésitez pas à visionner la vidéo ci-dessous.
+
+https://github.com/DestinationHome/Destination-Home-Online/blob/main/.github/README/Media/ps_plus_features.mp4
+
+* Notre objectif est de mettre en œuvre autant de fonctions/services de base originaux sur le PlayStation Home pour offrir à notre communauté l'expérience originale du Home. Lorsque de nouvelles fonctions seront ajoutées, nous les documenterons sur cette page wiki ici. De plus, notre page de discussion officielle Github annoncera également ces changements.

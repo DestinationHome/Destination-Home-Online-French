@@ -1,0 +1,31 @@
+DISCLAIMERS PAGE 
+-------------------------------
+
+
+I Avis de non-responsabilité
+
+Cette section est une clause de non-responsabilité concernant le projet Destination Home.
+
+*PIC 1: NAGATO AND EXODIUS PLAYING CHESS GAME*
+
+Malgré le long développement du projet Destination Home, il y aura malheureusement encore des services et des fonctions manquantes lors de la sortie ou après. Ces fonctionnalités manquantes seront documentées dans ce fil.
+Cependant, au fil du temps, ces services peuvent revenir à la page d'accueil une fois que les implémentations nécessaires ont été créées pour nos serveurs de production.
+
+Informations sur le jeu en ligne sur un Custom Firmware (console modifié)
+--------------------------------------------------------------------------
+
+
+-L'équipe Destination Home n'est pas responsable des utilisateurs bannis de PlayStation ™ Network en raison du manque de lecture du guide de démarrage complet fourni dans ce wiki, car il décrit tous les aspects de la conversion vers le retour en version officiel "OFW"(OFFICIAL FIRMWARE)
+après l'installation de Home sur HFW /POULE.
+
+-Référencé dans les CONDITIONS D'UTILISATION ET L'ACCORD D'UTILISATION PLAYSTATION™NETWORK officiels de la sous-section CODE DE CONDUITE 5.10 - 5.12.
+
+
+-5.10. Ne trichez pas et n'utilisez pas de bugs, de problèmes ou de mécanismes involontaires dans le Contenu ou le PSN pour obtenir un avantage ou pour obtenir un accès non autorisé au Contenu.
+
+-5.11. Ne téléchargez, publiez, diffusez ou transmettez aucun contenu contenant des virus, des logiciels espions, des bombes à retardement ou d'autres programmes informatiques susceptibles d'endommager, d'interférer avec ou de perturber le PSN.
+
+-5.12. N'utilisez pas, ne fabriquez pas et ne distribuez pas de logiciels ou de matériel non autorisés, y compris des périphériques sans licence et des logiciels ou des dispositifs de code de triche qui contournent les fonctions de sécurité ou les limitations incluses dans tout logiciel ou dispositif ou prennent ou utilisent des données du PSN pour concevoir,
+développer ou mettre à jour des logiciels ou du matériel non autorisés.
+
+Dans cet esprit, nous recommandons FORTEMENT aux utilisateurs de ne pas utiliser de logiciels personnalisé (CFW/HFW)(CUSTOM FIRMWARE/HYBRIDE FIRMWARE) en ligne, car vous risquez d'être banni sur PLAYSTATION™NETWORK.

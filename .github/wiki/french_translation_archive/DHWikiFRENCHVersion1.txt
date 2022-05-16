@@ -1,0 +1,140 @@
+GITHUB DESTINATION HOME ONLINE FRENCH VERSION 1.00
+-----------------------------------------------------
+
+
+Destination Home Online × De retour sur le PlayStation®Home! | WIP (travail en cours...)
+
+*PIC 1: BOWLING ALLEY EVERY ALPHA TESTERS*
+
+Nous sommes une équipe dédicacé a la restauration du PlayStation®Home en ligne (version originale du online) pour la préservation des jeux vidéos et a but éducationnel. Donnez votre cache data ici !
+
+Bref synopsis: 
+
+
+Bienvenue sur le guide officiel qui vous expliquera comment retourner sur le PlayStation®Home online sur les systèmes PS3 et RPCS3. Pour rester informer sur le projet, venez nous rejoindre sur notre page de Discussions sur Github,
+Notre Community Manager Figment postera les dernières informations a propos de futures progression dans le PSHome. Pour tout ce qui est relater au PlayStation®Home, nous avons créer un guide complet pour informer les joueurs 
+comment avoir accès à nos services.
+
+*PIC 2: DESTINATION HOME WIKI NAGATO/KNIGHT*
+
+
+🌐DNS publique de Destination Home : Annonce pour très bientôt.
+*PIC 3:NAGATO AND FIGMENT PLAYING MINI GAME MUI MUI SHIP PIC*
+
+DESTINATION HOME ONLINE WIKI : 
+
+Avis de non responsabilité / Destination Home Online: code de conduite des utilisateurs/ FAQ de Destination Home/ Terminologies importantes/ Services et fonctionnalités opérationnelle/ Services et fonctionnalités manquantes/ 
+Liste de compabilités des mini-jeux du PlayStation®Home/ Liste des espaces publics disponible sur le PlayStation®Home/ Liste des espaces privés disponinble sur le PlayStation®Home/ Notification de bugs critique sur le PlayStation®Home ?
+Comment nous les signaler a l'équipe Destination Home !/ Prérequis pour les joueurs Playstation3/ Comment jouer au PlayStation®Home sur PS3? /Prérequis pour les utilisateurs de RPCS3/ Comment jouer au PlayStation®Home sur RPCS3?/ 
+Comment tu pourrais aider l'équipe de Destination Home?/ Rencontre l'équipe de développement derrière Destination Home/ Contacte Nagato/ Rejoins nous sur les réseaux sociaux !/ Informations légales
+
+
+Démarrage rapide : 
+
+Pour garder ce fichier README.md (lis moi en français) sois simple, j'ai décidé de créer un wiki officiel dédié qui contient une description complète de la façon dont les utilisateurs peuvent accéder au PlayStation®Home Online
+avec notre solution de serveur personnalisée. Pour télécharger notre dernière version du client en ligne, veuillez consulter la page de publication ici. Ci-dessous, voici les exigences minimales requises dont vous aurez besoin pour ce processus
+
+ 
+--------------------------------------------------------------------------------------------          ---------------------------------------------------------------------------------------------------------------------
+Prérequis pour la PS3:	                                                                              Prérequis pour RPCS3:
+Une PlayStation 3.	                                                                              Un PC prenant en charge la configuration matérielle minimale recommandée pour l'exécution de l'émulateur. 
+Un compte PlayStation™Network actif.	                                                              Un compte RPCN.
+Le dernier client du PlayStation Home Online disponible sur notre page des dernières sorties.	      Le dernier client du PlayStation Home Online personnalisé pour RPCS3 disponible sur notre page des dernières sorties
+Une connexion internet ative.	                                                                      Une connexion internet ative.
+
+
+
+
+Services et fonctionnalités qui fonctionnent :
+
+-Version officielle de la PS3 en 4.88. Depuis le 29/4/2022, la version 4.88 est le dernier firmware pour la PS3.
+-Nous utilisons la version 1.86 du PlayStation®Home pour notre client de production.
+-La prise en charge des trophées sera disponible sur PS3. RPCS3 utilisera son service équivalent pour la gestion des trophées.
+-Les récompenses. Cela comprend les meubles, les vêtements, les appartements, etc.
+-Prise en charge interrégionale. Les utilisateurs peuvent accéder à tous les espaces régionaux quel que soit le pays d'origine connecté à leur compte PSN. Par exemple, un joueur qui vient du Japon peut accéder aux scènes nord-américaines et vice-versa.
+-Les utilisateurs qui ont le PlayStation®Plus sur le PSN auront accès à des couleurs de police supplémentaires pour leurs identifiants dans le jeu et auront la possibilité de personnaliser les cheveux de leur avatar dans n'importe quelle couleur. Pour plus d'informations sur cette fonctionnalité, n'hésitez pas à visionner la vidéo ci-dessous.
+
+https://github.com/DestinationHome/Destination-Home-Online/blob/main/.github/README/Media/ps_plus_features.mp4
+
+
+Services et fonctionnalités qui ne fonctionnent pas : 
+
+
+ -Clans/Clubs.
+ -Commerce Points "Magasins" pour RPCS3.
+ -Inspection des avatars.
+ -Gestionnaire de quête.
+ -Les services PlayStation™Network Matching2 ne seront pas disponibles pour RPCS3.
+ -Système de défi PlayStation®Home.
+ -Système de téléportation pour les scènes principales, par exemple The Hub, First Floor Mall, Pier Park.
+
+
+🕹️Liste de compabilités des mini-jeux sur le  PlayStation®Home
+*PIC 4: NAGATO AT KONAMI PENTHOUSE*
+
+
+En ce qui concerne les mini-jeux, malheureusement pour certaines scènes, tous les mini-jeux ne fonctionneront pas car cela nécessite une attention/du temps supplémentaire de la part de l'équipe de Destination Home pour que ces services soient opérationnels dans un environnement stable. Pour notre bêta,
+j'ai créé une liste de compatibilité simple qui documente quels mini-jeux fonctionnent pleinement ou non par ordre alphabétique (A-Z). (Liste uniquement en angalais.)
+
+
+
+🕷️Notification de bugs critiques sur le PlayStation®Home ? Comment nous les signaler!
+
+
+Comme pour tout projets majeurs, même les meilleures applications sont connues pour avoir des bugs, et le PlayStation Home Online ne fait pas exception. Cela étant dit, Destination Home accorde une grande importance à la stabilité pour notre communauté. Si vous voyez des bugs critiques, veuillez créer un ticket/problème ici sur le discord officiel de Destination Home Online.
+Afin de corriger rapidement les bugs, nous demandons aux utilisateurs de fournir autant de documentation que possible. Par exemple:
+
+-Quel client utilisez-vous (RPCS3/PS3) ?
+-Où ce bug s'est-il produit ? Indiquez le nom de la scène.
+-Fournissez des images/vidéos de l'erreur.
+-Si vous voyez un sujet problématique qui a déjà été documenté, veuillez vous abstenir de créer un autre ticket/rapport de discussion, car ça pourrait semer la confusion dans l'équipe de développement.
+
+
+Contacte Nagato! 
+*PIC 5: NAGATO BANNEER*
+
+Tu as des questions a me poser (seulement des questions en anglais merci.)? N'hésite pas a me contacter sur :
+Mon Twitter: NagatoRevenge
+Ma chaîne YouTube: Nagato's Revenge 
+
+
+❤️ Rejoins nous sur nos réseaux sociaux! :
+*LINK OF DESTINATION HOME DISCORD*
+
+
+-Site officiel de Destination Home 
+
+-Destination Home Preservation Alternative Discord Link
+
+-Destination Home Twitch Channel
+
+-Destination Home Official YouTube Channel
+
+-Destination Home 1.86 Dev Offline Client Patches
+
+Crédits/remerciements spéciaux :
+
+Merci à la communauté de Destination Home/PlayStation Home pour les dons de données qui nous sont indispensables ! Sans vous, ce projet de préservation n'aurait jamais fini en ligne ni archivé à des fins éducatives.
+
+
+
+🏆 Cache Donator Hall Of Fame 🏆
+
+
+
+
+
+
+
+
+
+*UNDER HALL OF FAM OF CACHE DONATORS* 
+-Merci à l'équipe de développement RPCS3 d'avoir aidé à corriger les bugs critiques pour le Home Online.
+-Merci à l'équipe PS3Xploit d'avoir créé l'exploit HEN (PS3 Homebrew ENabler) sur PS3 !
+-Merci Sony/PlayStation d'avoir créé ce monde social si impressionnant !
+
+Legal Informations -------REMAINS IN ENGLISH ONLY-----------
+
+
+
+

@@ -1,0 +1,229 @@
+ⅩⅠ | Prérequis pour les utilisateurs RPCS3
+-------------------------------------------------
+
+ⅩⅠ | Prérequis pour les utilisateurs RPCS3
+
+
+Pour jouer au PlayStation®Home sur RPCS3, vous aurez besoin d’utiliser notre client modifié, vu que nous avons fait des modifications importantes qui ne sont pas présentes dans la version normale de RPCS3.
+Notre client modifié a des nouvelles fonctions pour que online puisse fonctionner correctement.
+
+*First Image* *PIC 1:* 
+
+Guide de Démarrage Rapide pour RPCS3:
+En accord avec le guide de démarrage rapide officiel de RPCS3, ce que les développeurs de RPCS3 disent concernant les exigences de hardware d’ordinateur est ceci:
+"Les exigences minimales de hardware requis pour faire marcher l’émulateur peuvent varier selon votre configuration actuelle. Nous avons nommé les exigences minimales et recommandées ci-dessous.
+Pour la meilleure expérience, vous devez avoir un ordinateur conforme aux exigences recommandées. Nous ne pouvons pas garantir une aussi bonne expérience avec un ordinateur en dessous des exigences recommandées, mais vous pouvez toujours essayer.
+
+
+
+
+
+*2 RPCS3 site images* *PIC2*
+
+
+
+Les joueurs de RPCS3 devront être whitelisted (vérifié et approuvé) pour accéder à nos serveurs. Pour être vérifié, rejoignez notre discord officiel ici pour plus d’information.
+
+Les joueurs auront aussi besoin de créer un compte RPCN pour accéder aux serveurs du Home.
+
+
+                  Comment installer le firmware pour RPCS3:
+
+Cette séction expliquera en détail comment installer le dernier firmware pour RPCS3. À la date de création de cette page (13/05/2022) la dernière version du software de la PS3 est la version 4.89.
+
+Hash MD5 Hash pour la Version 4.89: 95307e1b51d3bcc33a274db91488d29f
+
+Comment créer votre compte RPCN:
+
+
+RPCN est un serveur “open-source” qui émule les connexions P2P de la PS3. RPCN peut aussi être utilisé pour communiquer avec serveurs privés de jeux qui ont besoin d’un serveur dédié pour fonctions multi-joueur.
+Ainsi, les jeux qui ont besoin de tels serveurs ne marcheront que si les serveurs sont “non-officiels”, créés par autres joueurs. Cette information est présente dans le wiki officiel de RPCS3-RPCN.
+
+-1. Soyez certain que vous êtes en train d’utiliser notre version de RPCS3 plus récente.
+-2. Ensuite, dans RPCS3, cliquer sur Configuration > RPCN > Account. Dans la fenêtre RPCN: Configuration window mettez dans la case Host: ceci: np.rpcs3.net
+
+*RPCN config image 1* *PIC3*
+
+
+-3. Maintenant, vous allez créér votre nom d’utilisateur unique NPID. Par exemple, mon nom est Nagato dans cette case. N’oubliez pas votre nom d’utilisateur! 
+
+*RPCN config image 2 *PIC 4*
+
+
+-4. Une fois que vous avez créé votre nom d’utilisateur NPID, vous aurez besoin de créér un mot passe pour votre compte. N’oubliez pas également votre mot de passe, puisque en ce moment même, il n’y a aucune manière de le récupérer.
+Il est recommandé de documenter votre nom d’utilisateur et mot de passe pour ne pas les oublier.
+●	Cliquez Set Password et tapez votre mot de passe pour votre compte.
+
+*2 images *PIC 5-6*
+
+
+
+-5. Après avoir tapé votre mot de passe, cliquez sur "Create Account" et ensuite vous devrez taper votre adresse mail, et cliquer sur "Ok". Ensuite, allez voir votre mail, et vous devrez avoir reçu un code de RPCN.
+
+*3 images* *PIC 7-8-9*
+
+Ne révélez jamais ce code RPCN à personne, puisque c’est une information importante et privée. Dans l’image en-dessus, le code dans le mail est seulement un exemple, ainsi que le nom d’utilisateur NPID
+.
+-6. Enfin, faites copier-coller de votre code RPCN dans la case Token et cliquez Save pour enregistrer votre configuration RPCN.
+
+*1 image* *PIC 10*
+
+
+Configuration Recommandée pour PlayStation Home sur RPCS3:
+
+Dans cette section, nous allons configurer Home pour qu’il puisse être stable sur votre ordinateur. Pour savoir si votre ordinateur est capable de faire tourner le Home, retournez au guide de démarrage rapide.
+
+-1. En premier, nous devons ouvrir la section Configuration et choisir CPU.
+
+*cpu image 1* *PIC 11* 
+
+-2. Dans la section CPU, vous devez faire les modifications nécessaires pour que vos configurations soient ainsi:
+
+  ●	PPU Decoder: Recompiler (LLVM)
+  ●	SPU Decoder: Recompiler (LLVM)
+  ●	SPU XFloat Accuracy: Approximate XFloat
+  ●	Additional Settings: *Nothing*
+  ●	TSX Instructions: *Nothing*
+  ●	SPU Block Size: Safe
+  ●	Preferred SPU Threads: Auto
+
+
+*cpu image 2* *PIC 12*
+
+Après avoir mis les options conformes à l’image en-dessus, cliquez sur "Apply" pour enregistrer vos modifications.
+
+2. Ensuite, ouvrez la section GPU et faites les modifications nécessaires pour que votre configuration soit ainsi:
+
+ !!!Notez que la configuration suivante est conforme aux exigences minimales. Si votre ordinateur est capable de plus, vous pouvez sans doute augmenter la résolution par exemple, ce qui est bien recommandé.
+
+●	Renderer: Vulkan
+●	Graphics Device: Sélectionnez votre plaque graphique dédiée | Dans mon cas, je choisis la mienne, qui est  NVIDIA GeForce RTX 3050 Ti Laptop GPU
+●	Aspect Ratio: 16:9
+●	Framelimit: Auto
+●	Anisotropic Filter: Auto
+●	Framelimit: Auto
+●	Anti-Aliasing: Auto
+●	ZCULL Accuracy: Approximate (Fast)
+●	Default Resolution: 1280x720 (Recommended)
+●	Resolution Scale (Disable Strict Mode): 100% Default
+●	Resolution Scale Threshold: 24x24
+●	Upscaling: Enable FRS Upscaling
+●	RCAS Sharpening Strength: 50% (Default)
+●	Shader Mode: Async (multi threaded)
+●	Number of Shader Compiler Threads: Auto
+●	Additional Settings: Asynchronous Texture Streaming
+
+
+gpu settings image* *PIC 13*
+
+
+Après avoir mis les options conformes à l’image en-dessus, cliquez sur Apply pour enregistrer vos modifications.
+
+3. Maintenant allez vers la section Audio, et faites les modifications nécessaires pour que votre configuration soit ainsi:
+
+●	Audio Out: Cubeb
+●	Audio Channels: Downmix to Stereo
+●	Audio Settings: Ne cochez pas Convert to 16-bit
+●	Music Handler: Qt
+●	Microphone Type: Disabled
+●	Audio Provider: CellAudio
+●	Master: 100%
+●	Buffering: Enable Buffering| Cochez cette option.
+●	Audio Buffer Duration: 100 ms
+●	Enable Time Stretching: Ne cochez pas Enable Time Stretching
+
+
+audio settings image* *PIC 14*
+
+4. Allez maintenant vers la section I/O, et faites les modifications nécessaires pour que votre configuration soit ainsi:
+
+Après avoir mis les options conformes à l’image en-dessus, cliquez sur Apply pour enregistrer vos modifications.
+
+●	Keyboard Handler: Basic
+●	Mouse Handler: Basic
+●	Move Handler: Null
+●	Pad Handler Mode: Single-threaded
+●	Camera Input: Unknown
+●	Camera Handler: Null
+●	Camera: Default
+●	Camera Flip: No
+●	Buzz! emulated controller: Null (use real Buzzers)
+●	DJ Hero emulated turntable: Null
+●	Guitar Hero Live emulated guitar: Null
+
+
+*I/O image* *PIC 15*
+
+5. Allez vers la section "System",et faites les modifications nécessaires pour que votre configuration soit ainsi:
+
+Notez que pour cette fenêtre, les options doivent être selon vos préférences. Par exemple, si vous parlez une autre langue, vous pouvez la choisir.
+ 
+●	Keyboard Handler: Français (France ou Canada)
+●	Keyboard Handler: Francais
+●	Keyboard Handler: Enter with cross
+●	Disc cache: Ne cochez pas Clear cache automatically
+●	Keyboard Handler: Français (France)
+●	Console Time: Set to Now | Ceci va mettre l’heure et date actuels, ce qui est important vu que certains minijeux utilisent l’heure de la PS3 pour fonctionner.
+●	Homebrew: Ne cochez pas Enable /host_root/
+
+
+*system image* *PIC 16*
+
+
+6. Maintenant nous allons ver la section "Network", où nous allons mettre la configuration ainsi:
+-Ces configurations ci-dessous doivent être correctement faites car elles sont indispensables pour se connecter aux serveurs online de Destination Home.
+Il faudra en plus contacter un des développeurs de Destination Home pour vérifier votre compte RPCN avant de se connecter aux serveurs. Pour cela, rejoignez notre Discord ici.
+
+●      Network Status: Connected
+●      DNS: Bientôt annoncé.
+●      PSN Status: RPCN
+●      IP/Hosts switches: Laissez vide.
+
+*network image* *PIC 17*
+
+
+
+
+7. Maintenant allez vers la section Advanced, où nous allons simplement changer ceci:
+
+●Firmware Libraries: Cochez | libvdec.sprx (Ceci répare des vidéos qui étaient avant déformés).
+
+*advanced tab image* *PIC 18*
+
+
+Patch du MLAA pour PlayStation Home 1.87:
+
+Cette section va expliquer comment appliquer le patch qui réparera certaines textures ruinées en RPCS3. Vous pouvez télécharger ce patch ici. Si vous voulez voir les contenus et codage de ce patch vous pouvez voir notre repo Gist.
+
+
+1. Après avoir téléchargé notre patch officiel ( patch.yml), ouvrez le dossier où RPCS3 est installé.
+
+2. Là, s’il n’a pas encore été créé, créez un dossier appelé "patches". Mettez le fichier patch.yml dans ce dossier.
+
+*root folder image* *PIC 19*
+
+3. Maintenant ouvrez RPCS3, allez cliquez  "Manage" > "Game Patches". Un message vous demandant si vous voulez actualiser les patches va apparaître (Do you want to update?).
+Cliquez "No" pour ne pas actualiser. Ensuite, dans la barre de recherche, tapez PlayStation:Home et choisissez PlayStation: Home > NPIA00005 v.01.87 > cochez la case de Disable MLAA > Apply > Save.
+Si vous êtes bloqués dans cette partie, vous pouvez voir ce video comme aide. Ou alors, vous pouvez cliquer sur l’image en-dessous qui vous remettra vers ce guide également. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

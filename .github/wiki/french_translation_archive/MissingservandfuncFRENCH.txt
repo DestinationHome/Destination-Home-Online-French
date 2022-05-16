@@ -1,0 +1,26 @@
+VI MISSING SERVICES & FUNCTIONS
+----------------------------------------------------
+
+Cette page documentera nos fonctions/services manquants actuels au sein de notre infrastructure Home actuelle.
+NPIA00010_screenshot_2022_05_04_20_57_06 *PIC 1 : FEMALE AVATAR ON BOWLING ALLEY*
+
+Services et fonctionnalités qui ne fonctionnent pas : 
+
+
+ -Clans/Clubs.
+ -Commerce Points "Magasins" pour RPCS3.
+ -Inspection des avatars.
+ -Gestionnaire de quête.
+ -Les services PlayStation™Network Matching2 ne seront pas disponibles pour RPCS3.
+ -Système de défi PlayStation®Home.
+ -Système de téléportation pour les scènes principales, par exemple The Hub, First Floor Mall, Pier Park.
+
+⚠️ Depuis le 04/05/2022, les fonctions ci-dessous n'ont pas encore été implémentées pour nos serveurs de production.
+
+ChangeLog
+
+*Toutes les fonctionnalités implémentées à l'avenir seront documentées dans le tableau ci-dessous :
+Services :            Description :           A-t-il été mis en œuvre ?
+
+NULL
+
