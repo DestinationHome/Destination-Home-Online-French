@@ -28,14 +28,14 @@
     
 Nous sommes une équipe dédicacé a la restauration du [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) en ligne (version originale du online) pour la préservation des jeux vidéos et a but éducationnel. Donnez votre cache data [ici](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/) !
   
-# Multilingual Support for this write-up | WIP 🚧:
+# Support multilingue pour ce référentiel | WIP 🚧:
   
  ![NPIA00005_screenshot_2022_03_20_18_47_40](https://user-images.githubusercontent.com/67494727/168452608-85bec567-b692-4086-a731-80d04503042c.png)
   
-- To view this README page in other languages here are the following supported languages that have been translated by our extraordinary contributors/moderation team:
+- Pour voir cette page README dans d'autres langues, voici les langues prises en charge suivantes qui ont été traduites par notre extraordinaire équipe de contributeurs/modérateurs:
   
    - [Italian]()  | Special thanks to [Sidereus](https://twitter.com/__Sidereus__) for this translation contribution. 
-   - [French](https://github.com/DestinationHome/Destination-Home-Online-French)  | Special thanks to [Marion](https://twitter.com/Marion4GF) & [TreezZ#8905](https://discordapp.com/users/605516950054895633) for this translation contribution.
+   - [Italien](https://github.com/DestinationHome/Destination-Home-Online-French)  | Special thanks to [Marion](https://twitter.com/Marion4GF) & [TreezZ#8905](https://discordapp.com/users/605516950054895633) for this translation contribution.
    - [Japanese](https://github.com/DestinationHome/Destination-Home-Online-Japan)  | Special thanks to [piyo](https://twitter.com/piyopiy80151704) for this translation contribution.
   
  ℹ️ | For users who want to translate this README page in order to support our ever-developing community you can contact me via [Twitter](https://twitter.com/NagatoRevenge) for more information! 
@@ -436,6 +436,7 @@ Vous avez des questions sur ce communiqué? N'hésitez pas à me contacter par l
 
 # Informations légales:
 
-We are not affiliated with Sony Interactive Entertainment (SIE) or any other game developers licensed by SIE. This project is purely for preservation/educational purposes, and our team doesn't accept ANY forms of donations.
+Nous ne sommes pas affiliés à Sony Interactive Entertainment (SIE) ou à tout autre développeur de jeux sous licence SIE. Ce projet est purement destiné à la préservation et à l'éducation, et notre équipe n'accepte aucune forme de don.
 
-**All rights are reserved by Sony Interactive Entertainment Europe Limited, as well as the respective third-party companies responsible for implementing content into PlayStation®Home. Destination Home is working on PlayStation®Home as the adaptation of publicly leaked software, the usage of this software falling under abandonware due to the lack of copyright enforcement involving the tools. The online section of PlayStation®Home is protected by the laws implied by the Digital Millennium Copyright Act 17 U.S. Code § 1201 for the purpose of preservation, education, and public viewing as a museum effort. That the team's focus is to reproduce the functionality once accessible and hosted by Sony, PlayStation®Home. Tools that are provided to us will be to our best ability given the utmost protection unless stated otherwise by the provider. Our focus is the protection of Sony copyright and intellectual property while following the goal of reproduction of online functionality, and do not claim any of this as our own.**
+**Tous les droits sont réservés par Sony Interactive Entertainment Europe Limited, ainsi que par les sociétés tierces respectives responsables de l'implémentation du contenu dans PlayStation®Home. Destination Home travaille sur PlayStation®Home en tant qu'adaptation d'un logiciel ayant fait l'objet d'une fuite publique, l'utilisation de ce logiciel relevant de l'abandonware en raison de l'absence d'application des droits d'auteur concernant les outils. La section en ligne de PlayStation®Home est protégée par les lois impliquées par le Digital Millennium Copyright Act 17 U.S. Code § 1201 dans un but de préservation, d'éducation et de visualisation publique en tant qu'effort muséal. L'objectif de l'équipe est de reproduire la fonctionnalité autrefois accessible et hébergée par Sony, PlayStation®Home. Les outils qui nous sont fournis seront utilisés au mieux de nos capacités et bénéficieront de la plus grande protection possible, sauf indication contraire du fournisseur. Nous nous concentrons sur la protection des droits d'auteur et de la propriété intellectuelle de Sony tout en poursuivant l'objectif de reproduction de la fonctionnalité en ligne, et nous ne revendiquons rien de tout cela comme étant notre propriété.**
+
