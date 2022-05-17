@@ -44,7 +44,6 @@ Nous sommes une équipe dédicacé a la restauration du [PlayStation®Home](http
 
 Bienvenue sur le guide officiel qui vous expliquera comment retourner sur le [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) online sur les systèmes PS3 et [RPCS3](). Pour rester informer sur le projet, venez nous rejoindre sur notre page de Discussions sur [Github](https://github.com/DestinationHome/Destination-Home-Online/discussions), Notre Community Manager [Figment](https://github.com/PSHFigment) postera les dernières informations a propos de futures progression dans le PSHome. Pour tout ce qui est relater au PlayStation®Home, nous avons créer un [guide complet](https://github.com/DestinationHome/Destination-Home-Online/wiki) pour vous informer comment avoir accès à nos services.
 
-
 ![Destination Home Online Official Wiki](https://user-images.githubusercontent.com/67494727/167228438-dc27564a-05d6-49ae-814a-936b6708f863.png)
 
 # <h1 align="center">🌐 DNS publique de Destination Home: *Annonce pour très bientôt*</h1>
@@ -157,7 +156,7 @@ j'ai créé une [liste de compatibilité](https://github.com/DestinationHome/Des
   
 - Liste uniquement en angalais. 
 
-# 🕷️ Vous signalez des bugs critiques sur PlayStation®Home? Comment nous les signaler!
+# 🕷️ Vous observez des bugs critiques sur le PlaystationHome? Comment nous les signaler!
 
 - Comme pour tout projets majeurs, même les meilleures applications sont connues pour avoir des bugs, et le PlayStation Home Online ne fait pas exception. Cela étant dit, Destination Home accorde une grande importance à la stabilité pour notre communauté. Si vous voyez des **bugs critiques**, veuillez créer un ticket/problème ici sur le discord officiel de Destination Home Online. Afin de corriger rapidement les bugs, nous demandons aux utilisateurs de fournir autant de documentation que possible. Par exemple:
   
