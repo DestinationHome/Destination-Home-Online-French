@@ -133,8 +133,6 @@ Pour que ce fichier README.md reste concis et direct, j'ai décidé de créer un
 - Support inter-régions `Les utilisateurs peuvent accéder à tous les espaces régionaux malgré le pays d'origine connecté à leur compte PSN. Par exemple, un joueur originaire du Japon peut accéder aux scènes nord-américaines et vice-versa.``
 - Les utilisateurs qui disposent de PlayStation®Plus sur le PSN auront accès à des couleurs de police supplémentaires pour leurs identifiants dans le jeu et auront la possibilité de personnaliser les cheveux de leur avatar dans n'importe quelle couleur. Pour plus d'informations sur cette fonctionnalité, n'hésitez pas à visionner la vidéo ci-dessous.
 
-Traduit avec www.DeepL.com/Translator (version gratuite)
-
 https://user-images.githubusercontent.com/67494727/168451055-be2e97d4-d0c6-4596-afbe-388c5d9e10c9.mp4
 
 # Services/fonctions manquants:
