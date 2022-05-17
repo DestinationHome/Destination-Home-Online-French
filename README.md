@@ -125,7 +125,7 @@ Pour que ce fichier README.md reste concis et direct, j'ai décidé de créer un
 | Le dernier client PlayStation Home Online de notre page de diffusion (https://github.com/DestinationHome/Destination-Home-Online/releases). | Le dernier client personnalisé RPCS3 PlayStation Home Client de notre [page de publication](https://github.com/DestinationHome/Destination-Home-Online/releases). |
 | Une connexion internet ative. | Une connexion internet ative. |
 
-# Des services et des fonctionnalités qui fonctionnent:
+# Liste des services et fonctionnalités qui fonctionnent:
 
 - Support officiel du firmware sur le [dernier](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) firmware PS3. En date du 2022/4/29, la version 4.88 est le dernier firmware pour PS3.
 - Nous utilisons la [version 1.86 de PlayStation®Home](https://www.ign.com/articles/2014/03/11/playstation-home-getting-trophies-in-new-update) pour notre client de production.
