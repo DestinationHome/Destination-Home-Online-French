@@ -160,9 +160,6 @@ j'ai créé une [liste de compatibilité](https://github.com/DestinationHome/Des
 
 - Comme pour tout projets majeurs, même les meilleures applications sont connues pour avoir des bugs, et le PlayStation Home Online ne fait pas exception. Cela étant dit, Destination Home accorde une grande importance à la stabilité pour notre communauté. Si vous voyez des **bugs critiques**, veuillez créer un ticket/problème ici sur le discord officiel de Destination Home Online. Afin de corriger rapidement les bugs, nous demandons aux utilisateurs de fournir autant de documentation que possible. Par exemple:
   
-Comme pour tout projets majeurs, même les meilleures applications sont connues pour avoir des bugs, et le PlayStation Home Online ne fait pas exception. Cela étant dit, Destination Home accorde une grande importance à la stabilité pour notre communauté. Si vous voyez des bugs critiques, veuillez créer un ticket/problème ici sur le discord officiel de Destination Home Online.
-Afin de corriger rapidement les bugs, nous demandons aux utilisateurs de fournir autant de documentation que possible. Par exemple:  
-
   - Quel client utilisez-vous (RPCS3/PS3)?
   - Où ce bug s'est-il produit ? Indiquez le nom de la scène.
   - Fournissez des images/vidéos de l'erreur.
