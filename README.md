@@ -117,11 +117,10 @@ Bienvenue sur le guide officiel qui vous expliquera comment retourner sur le [Pl
 
 Pour que ce fichier README.md reste concis et direct, j'ai décidé de créer un [wiki](https://github.com/DestinationHome/Destination-Home-Online/wiki) officiel dédié qui explique en détail comment les utilisateurs peuvent accéder à PlayStation®Home en ligne avec notre solution de serveur personnalisée. Pour télécharger les dernières versions de notre client en ligne, consultez la page de publication [ici](https://github.com/DestinationHome/Destination-Home-Online/releases). Ci-dessous, vous trouverez la configuration minimale requise pour ce processus.
 
-Traduit avec www.DeepL.com/Translator (version gratuite)
 
 | Configuration Requise Pour PS3: | Exigences pour RPCS3: |
 | ------------- | ------------- |
-| Une [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3). | Un PC qui prend en charge la [configuration matérielle recommandée] (https://rpcs3.net/quickstart) pour exécuter l'émulateur.   |
+| Une [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3). | Un PC qui prend en charge la [configuration matérielle recommandée](https://rpcs3.net/quickstart) pour exécuter l'émulateur.   |
 | Un [PlayStation™Network actif](https://www.playstation.com/en-us/playstation-network/). | Un compte [compte RPCN](https://wiki.rpcs3.net/index.php?title=Help:Netplay). |
 | Le dernier client PlayStation Home Online de notre page de diffusion (https://github.com/DestinationHome/Destination-Home-Online/releases). | Le dernier client personnalisé RPCS3 PlayStation Home Client de notre [page de publication](https://github.com/DestinationHome/Destination-Home-Online/releases). |
 | Une connexion internet ative. | Une connexion internet ative. |
